@@ -2,36 +2,26 @@
 "Email_address":[
   {
     "email_id": "anvi20002@anvibui.com",
-    "license_agreement_start_date": "9/24/18",
-    "wait_period": 1,
     "churn_score": 0.16685541
   },
 
   {
     "email_id": "anvi20004@anvibui.com",
-    "license_agreement_start_date": "10/1/18",
-    "wait_period": 2,
     "churn_score": 0.12335558
   },
 
   {
     "email_id": "anvi20003@anvibui.com",
-    "license_agreement_start_date": "2/10/17",
-    "wait_period": 1,
     "churn_score": 0.45
   },
 
   {
     "email_id": "anvi20005@anvibui.com",
-    "license_agreement_start_date": "9/13/19",
-    "wait_period": 1,
     "churn_score": 0.57472485
   },
 
   {
     "email_id": "anvi20006@anvibui.com",
-    "license_agreement_start_date": "7/27/19",
-    "wait_period": 1,
     "churn_score": 0.8122549
   },
 
@@ -145,5 +135,6 @@
 { "license_agreement_start_date": "4/26/18",
   "wait_period": 2
 }
+
 ]
 }
